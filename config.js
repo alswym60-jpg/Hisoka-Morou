@@ -63,7 +63,7 @@ export default {
 
    session: {
       Path: "session",
-      Name: "hisoka"
+      Name: "2B"
    }
 }
 
